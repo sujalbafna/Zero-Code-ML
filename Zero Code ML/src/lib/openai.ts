@@ -2,7 +2,7 @@ import OpenAI from 'openai';
 
 // Initialize OpenAI client
 const openai = new OpenAI({
-  apiKey: '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', // In production, use environment variable
+  apiKey: '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', // In production, use environment variable
   dangerouslyAllowBrowser: true // Only for demo, use backend in production
 });
 
